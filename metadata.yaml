@@ -1,0 +1,30 @@
+_repo: By-the-Christmas-Fire_20953
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crothers, Samuel McChord
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '6347'
+    url: http://www.gutenberg.org/2009/agents/6347
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2007-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+tableOfContents: The bayonet-poker -- On being a doctrinaire -- Christmas and the
+  literature of disillusion -- The ignominy of being grown-up -- Christmas and the
+  spirit of democracy.
+title: By the Christmas Fire
+url: http://www.gutenberg.org/ebooks/20953
